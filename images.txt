@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #nginx:1.27.0
-easytier/easytier:latest
+hashicorp/consul:1.22.1
+redis:6.2
+zookeeper:3.8.4

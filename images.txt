@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #nginx:1.27.0
-eclipse-temurin:17-jdk
+--platform=linux/arm64 eclipse-temurin:17-jdk
